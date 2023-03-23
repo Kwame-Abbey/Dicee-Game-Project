@@ -1,0 +1,1 @@
+This repository is a dicee game made with HTML, CSS and Javascript. There are two dicee which each generates a random number between 1 and 6. Comparing the two numbers generated, the game then predicts the winner.
